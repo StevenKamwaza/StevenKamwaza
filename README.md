@@ -11,8 +11,6 @@
 
 <!-- [![Steven Kamwaza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenKamwaza)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StevenKamwaza)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=StevenKamwaza)  
 
 ![Profile views](https://gpvc.arturio.dev/StevenKamwaza)  
