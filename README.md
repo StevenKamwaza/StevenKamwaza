@@ -28,8 +28,9 @@
 <a href="https://stevenkamwaza.dreamcodemw.com/">
     <img align="center" src="https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats" />
 </a>
-***
 
+***
+### Languages
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=dark"
@@ -42,18 +43,24 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true" />
 </picture>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://stevenkamwaza.dreamcodemw.com/))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=default#gh-light-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only](https://stevenkamwaza.dreamcodemw.com/))
-
- -->
-
 
 <!-- [![Steven Kamwaza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenKamwaza)](https://github.com/anuraghazra/github-readme-stats) -->
 ***
 ![Profile views](https://gpvc.arturio.dev/StevenKamwaza)  
 ***
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+<picture>
+<source 
+  srcset="https://readme-jokes.vercel.app/api"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://readme-jokes.vercel.app/api"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://readme-jokes.vercel.app/api" />
+</picture>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StevenKamwaza)   -->
 
