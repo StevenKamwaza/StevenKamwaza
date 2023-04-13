@@ -2,11 +2,11 @@
 ### A Software Developer & Educator
 
 #### I am IT professional with expertise in web design, software development, and database management. Passionate about taking on new challenges. Dedicated to guiding and supporting others with a patient and open-minded approach as a teacher
-=====
+===
 
 ### Skills:  REACT / JS /Java/Dart/ HTML / CSS
 
-=====
+===
 
 ### Useful links
 ### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/StevenKamwaza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stevenkamwaza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/stevenkamwaza)  
