@@ -55,9 +55,9 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://readme-jokes.vercel.app/api?theme=solarized-light"
+  srcset="https://readme-jokes.vercel.app/api?theme=flag-india"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://readme-jokes.vercel.app/api?theme=solarized-light" />
+<img src="https://readme-jokes.vercel.app/api?theme=flag-india" />
 </picture>
 
