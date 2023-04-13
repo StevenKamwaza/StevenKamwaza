@@ -10,11 +10,11 @@
 ### Useful links
 ### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/StevenKamwaza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stevenkamwaza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/stevenkamwaza)  
 ***
-https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only
+
 
 ###
-[![Steven Kamwaza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://stevenkamwaza.dreamcodemw.com)
-[![Steven Kamwaza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=default#gh-light-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only](https://stevenkamwaza.dreamcodemw.com))
+[![Steven Kamwaza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Steven Kamwaza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=default#gh-light-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only]([https://stevenkamwaza.dreamcodemw.com](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)))
 
 
 <a href="https://stevenkamwaza.dreamcodemw.com/">
