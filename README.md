@@ -6,12 +6,9 @@
 
 ### Skills:  REACT / JS /Java/Dart/ HTML / CSS
 
-<a href="https://github.com/stevenkamwaza">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="#">
-  <img align="center" src="https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats" />
-</a>
+<img align="center" src="https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats" />
 
 ***
 ### Useful links
