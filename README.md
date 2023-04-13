@@ -8,6 +8,8 @@
 
 <a href="https://stevenkamwaza.dreamcodemw.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=default#gh-light-mode-only" />
+ 
  </a>
 <a href="https://stevenkamwaza.dreamcodemw.com/">
     <img align="center" src="https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats" />
