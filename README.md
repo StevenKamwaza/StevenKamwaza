@@ -5,8 +5,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=12&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=12&layout=compact&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
