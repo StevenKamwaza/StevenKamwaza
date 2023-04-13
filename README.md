@@ -13,8 +13,19 @@
 
 
 ###
-[![Steven Kamwaza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Steven Kamwaza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=default#gh-light-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only]([https://stevenkamwaza.dreamcodemw.com](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)))
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&show_icons=true" />
+</picture>
+
+
 
 
 <a href="https://stevenkamwaza.dreamcodemw.com/">
