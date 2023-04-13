@@ -3,6 +3,8 @@
 [![Steven Kamwaza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Steven Kamwaza's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=12&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=12&layout=compact&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
@@ -11,7 +13,6 @@
 
 <!-- [![Steven Kamwaza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenKamwaza)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=StevenKamwaza)  
 
 ![Profile views](https://gpvc.arturio.dev/StevenKamwaza)  
 
