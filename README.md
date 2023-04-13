@@ -6,9 +6,12 @@
 
 ### Skills:  REACT / JS /Java/Dart/ HTML / CSS
 
-
+<a href="https://stevenkamwaza.dreamcodemw.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
-<img align="center" src="https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats" />
+ </a>
+<a href="https://stevenkamwaza.dreamcodemw.com/">
+    <img align="center" src="https://streak-stats.demolab.com?user=StevenKamwaza&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats" />
+ </a>
 
 ***
 ### Useful links
@@ -21,8 +24,8 @@
  -->
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://stevenkamwaza.dreamcodemw.com/))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenKamwaza&langs_count=10&layout=compact&hide_progress=true&theme=default#gh-light-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only](https://stevenkamwaza.dreamcodemw.com/))
 
 
 
