@@ -49,17 +49,16 @@
 ![Profile views](https://gpvc.arturio.dev/StevenKamwaza)  
 ***
 
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 <picture>
 <source 
-  srcset="https://readme-jokes.vercel.app/api"
+  srcset="https://readme-jokes.vercel.app/api?theme=blueberry"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://readme-jokes.vercel.app/api"
+  srcset="https://readme-jokes.vercel.app/api?theme=random"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://readme-jokes.vercel.app/api" />
+<img src="https://readme-jokes.vercel.app/api?theme=random" />
 </picture>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StevenKamwaza)   -->
