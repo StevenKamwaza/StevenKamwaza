@@ -55,25 +55,9 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://readme-jokes.vercel.app/api?theme=random"
+  srcset="https://readme-jokes.vercel.app/api?theme=solarized-light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://readme-jokes.vercel.app/api?theme=random" />
+<img src="https://readme-jokes.vercel.app/api?theme=solarized-light" />
 </picture>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StevenKamwaza)   -->
-
-<!--
-**StevenKamwaza/StevenKamwaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
