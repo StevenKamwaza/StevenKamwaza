@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Steven Kamwaza
-###A Software Developer & Educator
+### A Software Developer & Educator
 
 I am IT professional with expertise in web design, software development, and database management. Passionate about taking on new challenges. Dedicated to guiding and supporting others with a patient and open-minded approach as a teacher
 
