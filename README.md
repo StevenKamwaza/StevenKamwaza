@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Steven Kamwaza
 ### A Software Developer & Educator
-| First Image | Second Image |
-|-------------|--------------|
+
+
 | ![steven kamwaza](https://media.licdn.com/dms/image/D4D16AQF2SPzMB7-hjQ/profile-displaybackgroundimage-shrink_200_800/0/1677630794632?e=2147483647&v=beta&t=bltGIG-BEdXgeizvgB7ozoh16uM4qsZUvxT1aLKQ_28) | <img src="https://media.licdn.com/dms/image/D4D03AQG3kHQBzZ9Gxg/profile-displayphoto-shrink_800_800/0/1678372079989?e=2147483647&v=beta&t=t4SYoaJrJBBnUTpVGz2y5o1raSMhGeX_72yNfybFdHk" height="20px" alt="steven kamwaza" /> |
 
 
