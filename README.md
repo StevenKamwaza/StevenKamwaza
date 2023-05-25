@@ -1,11 +1,12 @@
+![I am a Software Developer & Educator ](https://media.licdn.com/dms/image/D4D16AQF2SPzMB7-hjQ/profile-displaybackgroundimage-shrink_200_800/0/1677630794632?e=2147483647&v=beta&t=bltGIG-BEdXgeizvgB7ozoh16uM4qsZUvxT1aLKQ_28)
 ## Hi there 👋, I am Steven Kamwaza
 ### A Software Developer & Educator
 
-![I am a Software Developer & Educator ](https://media.licdn.com/dms/image/D4D16AQF2SPzMB7-hjQ/profile-displaybackgroundimage-shrink_200_800/0/1677630794632?e=2147483647&v=beta&t=bltGIG-BEdXgeizvgB7ozoh16uM4qsZUvxT1aLKQ_28)
-
 #### I am IT professional with expertise in web design, software development, and database management. Passionate about taking on new challenges. Dedicated to guiding and supporting others with a patient and open-minded approach as a teacher
-<hr>
 
+***
+![Profile views](https://gpvc.arturio.dev/StevenKamwaza)  
+***
 ### Skills:  REACT / JS /Java/Dart/ HTML / CSS
 
 ***
@@ -47,9 +48,7 @@
 
 
 <!-- [![Steven Kamwaza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StevenKamwaza)](https://github.com/anuraghazra/github-readme-stats) -->
-***
-![Profile views](https://gpvc.arturio.dev/StevenKamwaza)  
-***
+
 
 <picture>
 <source 
