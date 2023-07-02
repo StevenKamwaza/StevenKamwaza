@@ -18,14 +18,14 @@
 ###
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=StevenKamwaza&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" />
 </picture>
 
 <a href="https://stevenkamwaza.dreamcodemw.com/">
