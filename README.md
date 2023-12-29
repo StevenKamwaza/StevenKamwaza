@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Steven Kamwaza</h2>
 <h3 align="center">Software Developer & Computer Science Educator </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenKamwaza&label=Profile%20views&color=0e75b6&style=flat" alt="StevenKamwaza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenKamwaza&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 📫 You can reach me via **stevkamwa@gmail.com**
 
