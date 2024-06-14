@@ -2,7 +2,6 @@
 <h3 align="center">Software Developer & Computer Science Educator </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=StevenKamwaza&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 📫 You can reach me via **stevkamwa@gmail.com**
 
 <div> <a href="https://github.com/StevenKamwaza" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:stevkamwa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
