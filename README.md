@@ -4,6 +4,5 @@
 <div> <a href="https://github.com/StevenKamwaza" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:stevkamwa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-[![Check out StevenKamwaza's profile on stardev.io](https://stardev.io/developers/StevenKamwaza/badge/languages/country.svg)](https://stardev.io/developers/StevenKamwaza)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://stardev.io/developers/StevenKamwaza"><img alt="Check out StevenKamwaza&apos;s profile on stardev.io" src="https://stardev.io/developers/StevenKamwaza/badge/languages/country.svg" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
